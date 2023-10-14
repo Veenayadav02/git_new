@@ -1,4 +1,8 @@
 hii 1st line in 2nd file 
 2nd line in 2nd file
 
+
 created a new branch
+=======
+new branch content2
+
